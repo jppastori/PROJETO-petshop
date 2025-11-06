@@ -44,7 +44,7 @@ h2{
     padding-right: 0;
     margin-right: 0;
 }
-#produto .flex-container{
+#produto .flex-container, #Contato .flex-container{
     margin-top: 43px;
 
 }
@@ -92,4 +92,20 @@ h2{
     text-decoration: none;
     border-radius: 5px;
     color: #000;
+}
+form{
+    width: 380px;
+    /* border: 1px solid #c4c4c4; */
+}
+form input,
+form textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #6DD432;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+iframe{
+    width: 100%;
 }
