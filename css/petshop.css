@@ -109,3 +109,15 @@ form textarea{
 iframe{
     width: 100%;
 }
+.dev{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #c4c4c4;
+    text-align: center;
+    align-items: center;
+    background-image: url(../img/fundo-topo.jpg);
+    padding: 10px;
+    margin: 0 auto;
+    width: 1300px;
+    height: 48px;
+    border-radius: 10px;
+}
